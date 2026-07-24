@@ -6,13 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=shubhamsharmax50&label=Profile%20Views&color=4D7CFE&style=flat-square" alt="profile views" />
 </p>
 
-
 ## 👋 About Me
-- 🚀 Specialized in **Full Stack (MERN, React Native) & DevOps Development**
-- 🎓 B.Tech in **Computer Science & Engineering** at **IIIT Kalyani** (Graduating 2026)
-- ⚔️ **Knight on [LeetCode](https://leetcode.com/u/Code0Era/)** (Rating 1884, Top 3.2% | 400+ solved) & **Pupil on Codeforces**
-- 📫 Reach me at: **shubhamsharma954@gmail.com**
-- ⚡ Fun fact: Passionate about clean code, low-latency APIs, and automating deployments!
+
+I'm a **Full Stack & Mobile Developer** passionate about building highly scalable products, AI-driven applications, and cloud-native systems. Currently working as a **Full Stack & Mobile Developer** at **[locaralabs.ai](https://locaralabs.ai/)**, building scalable solutions using MERN, AI, React Native, and DevOps.
+
+- 🎓 **Education**: B.Tech in **Computer Science & Engineering** at **IIIT Kalyani** (Graduating 2026)
+- 🛠️ **Working on**: AI apps, microservices, full-stack products, serverless systems, React Native apps
+- 🚀 **Learning**: Gen AI, DevOps, Cloud Architecture, Distributed Systems
+- ⚔️ **LeetCode**: [Knight (Rating 1884, Top 3.2% | 400+ solved)](https://leetcode.com/u/Code0Era/) & **Pupil on Codeforces**
+- 💬 **Ask me about**: Node.js, Next.js, React Native, AWS, MongoDB, DevOps
+- 📬 **Reach me at**: [shubhamsharma954@gmail.com](mailto:shubhamsharma954@gmail.com)
 
 ---
 
@@ -105,6 +108,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsharmax50&show_icons=true&layout=compact&theme=tokyonight" width="48%" alt="Top Langs" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=shubhamsharmax50&show_icons=true&layout=compact&theme=tokyonight" width="48%" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=shubhamsharmax50&show_icons=true&layout=compact&theme=tokyonight" width="48%" alt="Top Langs" />
   <img src="https://github-stats-extended.vercel.app/api?username=shubhamsharmax50&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsharmax50&theme=tokyonight" alt="GitHub Streak" />
+</p>
